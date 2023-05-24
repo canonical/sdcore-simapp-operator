@@ -9,10 +9,10 @@
   </a>
   <br/>
   <br/>
-  <h1>SD-CORE AUSF Operator</h1>
+  <h1>SD-Core AUSF Operator</h1>
 </div>
 
-A Charmed Operator for SDCORE's SIM subscription app (SIMAPP) component. 
+A Charmed Operator for SD-Core's SIM subscription app (SIMAPP) component. 
 
 ## Usage
 
